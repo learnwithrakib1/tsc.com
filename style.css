@@ -1,0 +1,42 @@
+@import url('https://fonts.cdnfonts.com/css/hind-siliguri');
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+.icon a{
+    float: left;
+    padding: 12px;
+    color: black;
+}
+
+.friendImage{
+    border-radius: 12px;
+
+}
+
+ /* Custom styles for the footer */
+ .footer {
+    background-color: #f8f9fa;
+    padding: 40px 0;
+  }
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  .footer-links li {
+    margin-bottom: 10px;
+    text-decoration: none;
+  }
+  .footer-links a {
+    color: rgba(255,255,255,0.66);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  .footer-links a:hover {
+    color: #ff6600;
+  }
